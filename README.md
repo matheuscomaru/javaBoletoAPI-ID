@@ -1,4 +1,6 @@
 # Java Boleto API ID
+<img width="981" height="533" alt="Logo-ID2" src="https://github.com/user-attachments/assets/210d2320-b143-479d-8c9c-678d58a8ce24" />
+
 
 Aplicativo Java para envio/consulta de boletos via API (exemplo de integração com CobExpress). Este repositório contém código-fonte, binários, dependências.
 
